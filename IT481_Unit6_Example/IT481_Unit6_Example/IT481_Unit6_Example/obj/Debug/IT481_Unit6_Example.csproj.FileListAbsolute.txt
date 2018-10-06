@@ -1,0 +1,13 @@
+C:\Users\rubab.tariq\Desktop\Work\Progressca\IT481_Unit6_Example\IT481_Unit6_Example\bin\Debug\IT481_Unit6_Example.exe.config
+C:\Users\rubab.tariq\Desktop\Work\Progressca\IT481_Unit6_Example\IT481_Unit6_Example\obj\Debug\IT481_Unit6_Example.csprojResolveAssemblyReference.cache
+C:\Users\rubab.tariq\Desktop\Work\Progressca\IT481_Unit6_Example\IT481_Unit6_Example\bin\Debug\IT481_Unit6_Example.exe
+C:\Users\rubab.tariq\Desktop\Work\Progressca\IT481_Unit6_Example\IT481_Unit6_Example\bin\Debug\IT481_Unit6_Example.pdb
+C:\Users\rubab.tariq\Desktop\Work\Progressca\IT481_Unit6_Example\IT481_Unit6_Example\obj\Debug\IT481_Unit6_Example.exe
+C:\Users\rubab.tariq\Desktop\Work\Progressca\IT481_Unit6_Example\IT481_Unit6_Example\obj\Debug\IT481_Unit6_Example.pdb
+C:\Users\brian\Downloads\IT481_Unit6_Example (2)\IT481_Unit6_Example\IT481_Unit6_Example\bin\Debug\IT481_Unit6_Example.exe.config
+C:\Users\brian\Downloads\IT481_Unit6_Example (2)\IT481_Unit6_Example\IT481_Unit6_Example\bin\Debug\IT481_Unit6_Example.exe
+C:\Users\brian\Downloads\IT481_Unit6_Example (2)\IT481_Unit6_Example\IT481_Unit6_Example\bin\Debug\IT481_Unit6_Example.pdb
+C:\Users\brian\Downloads\IT481_Unit6_Example (2)\IT481_Unit6_Example\IT481_Unit6_Example\obj\Debug\IT481_Unit6_Example.csprojAssemblyReference.cache
+C:\Users\brian\Downloads\IT481_Unit6_Example (2)\IT481_Unit6_Example\IT481_Unit6_Example\obj\Debug\IT481_Unit6_Example.csproj.CoreCompileInputs.cache
+C:\Users\brian\Downloads\IT481_Unit6_Example (2)\IT481_Unit6_Example\IT481_Unit6_Example\obj\Debug\IT481_Unit6_Example.exe
+C:\Users\brian\Downloads\IT481_Unit6_Example (2)\IT481_Unit6_Example\IT481_Unit6_Example\obj\Debug\IT481_Unit6_Example.pdb
